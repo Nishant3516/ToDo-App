@@ -1,16 +1,36 @@
-# todo
+# ToDo App
 
-A new Flutter project.
+A simple ToDo app built using Flutter.
+This ToDo app can be used to create, maintain mark as complete and delete the daily tasks.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Flutter](https://flutter.dev/docs/get-started/install)
+- A device or emulator to run the app on
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installing
+
+1. Clone the repository
+The repository can be cloned using the link git clone https://github.com/Nishant3516/ToDo-App.git
+
+2. Navigate to the project directory
+
+3. Run the app
+
+## Features
+- Create, read, delete tasks
+- Mark task as complete
+- Utilize local storage
+
+## Built With
+
+- [Flutter](https://flutter.dev/) - The framework used
+
+## Author
+
+- Nishant Bansal(https://github.com/Nishant3516)
+
